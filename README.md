@@ -19,6 +19,8 @@
 <img src="https://blog.kakaocdn.net/dn/TGhFr/btqH51vF2zk/yeiuBLGTwMHidPEI0LUnKk/img.png"  width="200" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"  width="200" height="100"/>
 <img src="https://blog.kakaocdn.net/dn/blHqYI/btqYveNxEkG/Wc2w2uuQ5aBKhhCuy3YqV1/img.png"  width="200" height="100"/>
+</figure>
+
 <img src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg"  width="200" height="100"/>
 <img src="https://velog.velcdn.com/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png"  width="200" height="100"/>
 <img src="https://images.velog.io/images/jeongjae96/post/8484124c-be27-4c41-901b-6581746a50eb/numpy.png"  width="200" height="100"/>
