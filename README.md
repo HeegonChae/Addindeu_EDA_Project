@@ -1,3 +1,4 @@
+
 # 🌽🍎농산물 가격 폭등의 원인 분석 및 해결책 탐구  BY. 오토파밍🍎🌽
 
 
@@ -18,26 +19,25 @@
 <div align="center">
 	<img src="https://blog.kakaocdn.net/dn/TGhFr/btqH51vF2zk/yeiuBLGTwMHidPEI0LUnKk/img.png"  width="100" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"  width="100" height="50"/>
-    <img src="https://blog.kakaocdn.net/dn/blHqYI/btqYveNxEkG/Wc2w2uuQ5aBKhhCuy3YqV1/img.png"  width="100" height="50"/>
-  	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />	
+    <img src="https://blog.kakaocdn.net/dn/blHqYI/btqYveNxEkG/Wc2w2uuQ5aBKhhCuy3YqV1/img.png" width="100" height="50" />	
 </div>
-<figure class="thrid"> 
-    <img src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg"  width="200" height="100"/>
-    <img src="https://velog.velcdn.com/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png"  width="200" height="100"/>
-    <img src="https://images.velog.io/images/jeongjae96/post/8484124c-be27-4c41-901b-6581746a50eb/numpy.png"  width="200" height="100"/>
-</figure>
-<figure class="thrid"> 
-    <img src="https://blog.kakaocdn.net/dn/RUwEA/btrpGAwzW8E/piuN8aEJubo0gWkX8Gy7sk/img.jpg"  width="200" height="100"/>
-    <img src="https://velog.velcdn.com/images/ujeongoh/post/f135b190-6240-4845-85aa-639246f55740/image.png"  width="200" height="100"/>
-    <img src="https://velog.velcdn.com/images/thevlakk/post/46741c70-df17-4475-a502-2aa92458e9f2/image.png"  width="200" height="100"/>
-</figure>
+<div align="center">
+	<img src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg"  width="100" height="50"/>
+    <img src="https://velog.velcdn.com/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png"  width="100" height="50"/>
+    <img src="https://images.velog.io/images/jeongjae96/post/8484124c-be27-4c41-901b-6581746a50eb/numpy.png"  width="100" height="50"/>
+</div>
+<div align="center">
+	<img src="https://blog.kakaocdn.net/dn/RUwEA/btrpGAwzW8E/piuN8aEJubo0gWkX8Gy7sk/img.jpg"  width="100" height="50"/>
+    <img src="https://velog.velcdn.com/images/ujeongoh/post/f135b190-6240-4845-85aa-639246f55740/image.png"  width="100" height="50"/>
+    <img src="https://velog.velcdn.com/images/thevlakk/post/46741c70-df17-4475-a502-2aa92458e9f2/image.png"  width="100" height="50"/>
+</div>
 
 ## 📝협업 툴 📝
-<figure class="thrid"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png"  width="200" height="100"/>
-    <img src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png"  width="200" height="100"/>
-    <img src="https://deltl.de/wp-content/uploads/2024/01/FigJam.png"  width="200" height="100"/>
-</figure>
+<div align="center">
+	<img src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png"  width="100" height="50"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png"  width="100" height="50"/>
+    <img src="https://deltl.de/wp-content/uploads/2024/01/FigJam.png"  width="100" height="50"/>
+</div>
 
 ##  🔍 데이터 수집 🔍
 * 냉동 / 건조 과일 
