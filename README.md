@@ -1,8 +1,8 @@
 
-# 🌽🍎농산물 가격 폭등의 원인 분석 및 해결책 탐구  BY. 오토파밍🍎🌽
+# <div align="center"> 🧅🍎농산물 가격 폭등의 원인 분석 및 해결책 탐구🍎🧅</div>
 
 
-## Analyzing the Causes and Exploring Solutions for the Surge in Agricultural Commodity Prices
+### <div align="center">Analyzing the Causes and Exploring Solutions for the Surge in Agricultural Commodity Prices</div>
 
 ## 📈 농산물 가격 폭등 ! 
 ### 얼마나 올랐는데 ? 🍎🍐🧅
@@ -12,31 +12,47 @@
 
 
 ## 🙆‍♀️프로젝트 멤버 🙆‍♂️
-현혜지(팀장),채희곤,손영수,장형준,강지연
+Team name: 오토파밍
+- 현혜지(팀장)  
+    - 자료조사 및 시각화: "물가 상승 & 기온 상승 → 재배지 북상" 상관관계 입증
+    - 깃허브 관리: commit 규칙 제안, branch 관리, Markdown 문서 관리
+    - 발표자료 작성: 
+- 강지연  
+    - 자료조사 및 시각화: 국내/해외 물가 상승률, 단기 농산물 상승 가격 비교
 
+- 손영수  
+    - 자료조사 및 시각화: 물가 상승과 고령화 상광관계 입증
+    - 발표자: 발표 스크립트 작성
+- 장형준
+    - 자료조사 및 시각화: 국내 스마트팜 효용성 지표 시각화
+    - DB 관리: AWS & MySQL 데이터베이스 환경 구축 및 사용자 구분
+    - 문서 관리: Markdown 문서
+- 채희곤
+    - 자료조사 및 시각화
+        - 냉동/건조과일 
+        - 물가상승률, 물가 상승의 대표 농작물 조사
+        - 키워드 분석: 물가, 스마트팜
+    - 발표자료 작성: 
 ---
-## 🛠기술 스택🛠
-<div align="center">
-	<img src="https://blog.kakaocdn.net/dn/TGhFr/btqH51vF2zk/yeiuBLGTwMHidPEI0LUnKk/img.png"  width="100" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"  width="100" height="50"/>
-    <img src="https://blog.kakaocdn.net/dn/blHqYI/btqYveNxEkG/Wc2w2uuQ5aBKhhCuy3YqV1/img.png" width="100" height="50" />	
-</div>
-<div align="center">
-	<img src="https://i.namu.wiki/i/vkGpBcmks1_NcJW0HUFa6jlwlM6h11B-8nxRRX4bYC703H4nLo7j4dQdRCC32gz8Q-BqRcAnQgFSXMjB8jPohg.svg"  width="100" height="50"/>
-    <img src="https://velog.velcdn.com/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png"  width="100" height="50"/>
-    <img src="https://images.velog.io/images/jeongjae96/post/8484124c-be27-4c41-901b-6581746a50eb/numpy.png"  width="100" height="50"/>
-</div>
-<div align="center">
-	<img src="https://blog.kakaocdn.net/dn/RUwEA/btrpGAwzW8E/piuN8aEJubo0gWkX8Gy7sk/img.jpg"  width="100" height="50"/>
-    <img src="https://velog.velcdn.com/images/ujeongoh/post/f135b190-6240-4845-85aa-639246f55740/image.png"  width="100" height="50"/>
-    <img src="https://velog.velcdn.com/images/thevlakk/post/46741c70-df17-4475-a502-2aa92458e9f2/image.png"  width="100" height="50"/>
+- 🛠기술 스택🛠
+<div align=center> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=folium&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img src="https://img.shields.io/badge/beautifulsope-150458?style=for-the-badge&logo=beautifulsope&logoColor=white">
 </div>
 
-## 📝협업 툴 📝
+- 📝협업 툴 📝
 <div align="center">
-	<img src="https://miro.medium.com/v2/resize:fit:1125/0*N1fmHtI8gmkH_2Vu.png"  width="100" height="50"/>
-    <img src="https://1000logos.net/wp-content/uploads/2021/06/Slack-logo.png"  width="100" height="50"/>
-    <img src="https://deltl.de/wp-content/uploads/2024/01/FigJam.png"  width="100" height="50"/>
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/figjam-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ##  🔍 데이터 수집 🔍
@@ -56,4 +72,9 @@
 #### 1-2. 연평균 기온의 상승으로 인한 재배적지 감소 및 북상이 원인은 아닐까?
 ### 🧅2. 농산물 가격을 회복하려면 어떻게 해야할까 ? 🧅
 #### 2-1.  스마트팜 ! 너무 좋은데? 
-#### 2-2. 우리나라의 스마트팜은 어떻게 돌아가고 있나 
+#### 2-2. 우리나라의 스마트팜은 어떻게 돌아가고 있나
+
+
+- 출처: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. 121~122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
+
+
