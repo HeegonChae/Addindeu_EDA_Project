@@ -10,7 +10,7 @@
 ### 농산물 가격 상승 현상에 대한 원인 분석 및 가격 안정화 솔루션 제시
 
 ### 팀 조직도
-<img src="https://github.com/JangHyeongJun-0523/EDA_Project/blob/main/TeamRole.png?raw=true"> 
+<img src="https://raw.githubusercontent.com/JangHyeongJun-0523/EDA_Project/main/TeamRole.webp"> 
 <hr>
 <div align=center> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
