@@ -9,8 +9,14 @@
 ## 프로젝트 개요  🍎🍐🧅
 ### 농산물 가격 상승 현상에 대한 원인 분석 및 가격 안정화 솔루션 제시
 
-### 팀 조직도
+> 여기에 플로우 차트 삽입 예정
+
+### 역할 분배
 <img src="https://raw.githubusercontent.com/JangHyeongJun-0523/EDA_Project/main/TeamRole.webp"> 
+
+### 기술적 목표
+#### ~~모듈을 통해 []확인
+
 <hr>
 <div align=center> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -28,6 +34,7 @@
     <img src="https://img.shields.io/badge/figjam-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <hr>
+
 ##  🔍 데이터 수집 🔍
 * 냉동 / 건조 과일 
 * 물가 상승 지표
