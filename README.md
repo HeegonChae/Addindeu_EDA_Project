@@ -76,9 +76,9 @@ Team name: 오토파밍
 
 
 - 출처: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. 121~122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
-- 출처: ![구글 트랜드 스마트팜 검색어 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
-- 출처: ![한국무역통계 정보포털 과실*견과류,0808,080810,사과](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
-- 출처: ![한국무역통계 정보포털 과실*견과류,0813,081330,사과](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
-- 출처: ![한국무역통계 정보포털 과실*견과류,0810,081010,초본류딸기](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
-- 출처: ![KOSIS 물가,소비자물가조사,소비자물가지수(2020=100)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KE10051&vw_cd=MT_ZTITLE&list_id=O_14&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
-- 출처: ![KOSIS 물가,소비자물가조사,품목성질별 소비자물가지수(2020=100)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KE10051&vw_cd=MT_ZTITLE&list_id=O_14&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+- 출처: [구글 트랜드 스마트팜 검색어 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
+- 출처: [한국무역통계 정보포털 과실*견과류,0808,080810,사과](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
+- 출처: [한국무역통계 정보포털 과실*견과류,0813,081330,사과](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
+- 출처: [한국무역통계 정보포털 과실*견과류,0810,081010,초본류딸기](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
+- 출처: [KOSIS 물가,소비자물가조사,소비자물가지수(2020=100)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KE10051&vw_cd=MT_ZTITLE&list_id=O_14&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
+- 출처: [KOSIS 물가,소비자물가조사,품목성질별 소비자물가지수(2020=100)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1KE10051&vw_cd=MT_ZTITLE&list_id=O_14&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
