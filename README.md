@@ -7,7 +7,7 @@
 
 
 ## 프로젝트 개요  🍎🍐🧅
-### 파이썬 모듈 기반 정보 수집 및 시각화를 통한
+### 파이썬 모듈 기반 정보 수집, 시계열 예측 및 시각화를 통한
 ### 농산물 가격 상승 현상에 대한 원인 분석 및 가격 안정화 솔루션 제시
 
 <img src="https://raw.githubusercontent.com/JangHyeongJun-0523/EDA_Project/main/AutoFarmingFlowChart.webp"> 
@@ -78,7 +78,7 @@
 
 - 7: [통계청. 『[농가인구 고령화비율]』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 8, 링크 수정 필요: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/index/index.do)
+- 8 링크 수정 필요: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/index/index.do)
 
 - 9: [전국(도별) 논밭별 경지면적.통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
