@@ -49,7 +49,10 @@
 ###  🍎1. 문제 인식🍎
 #### 1-1.  사과 값 폭등
 <img src="https://private-user-images.githubusercontent.com/70615068/317709529-bd16d942-f005-4c98-a0f8-389af876bcbe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzM1MDEsIm5iZiI6MTcxMTYzMzIwMSwicGF0aCI6Ii83MDYxNTA2OC8zMTc3MDk1MjktYmQxNmQ5NDItZjAwNS00Yzk4LWEwZjgtMzg5YWY4NzZiY2JlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDEzNDAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkZmE0N2M4MTY3MmIyNGYyMzI3ZGZkM2RlNjBjMWY0NzQ0NTY4YWUzZDUyNzU5OGQ4NmMwMGUzOGEyNmUxYTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7CvHUhdXwhArf0Eii9RFOMrbBUcbR-4cxsmp0iRB12g">
-<center>2024년 1분기 뉴스 토픽</center>
+
+<center>
+  2024년 1분기 뉴스 토픽
+</center>
 
 ### 🧅2. 문제 분석🧅
 #### 2-1. 문제 정의 타당성 검증 필요
@@ -68,8 +71,11 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316791362-453626f2-f349-4156-b985-d491da65aff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMyMTgsIm5iZiI6MTcxMTYzMjkxOCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkxMzYyLTQ1MzYyNmYyLWYzNDktNDE1Ni1iOTg1LWQ0OTFkYTY1YWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzM1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNjFiZDJiNWYzMzZhNTliYTk1NzdmZDNlOTY3OTM1OWU2MTZhNTEyODVmMjJmNGUyNTljYTk1NDU1YWFlYjc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mT3Vtk6ZGyiJrpofxMW_Gj24g9WQ7fG3UtSc8FS_y_4">
-<center>전국 소비자 물가 총 지수 [1]</center>
 </p>
+
+<center>
+  전국 소비자 물가 총 지수 [1]
+</center>
 
 #### 2-2-2. 10년간 전국 소비자 물가 지수
 - 2014년부터 2023년까지 전국 과일 물가 지수 변화 시각화
@@ -79,8 +85,11 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316791352-8f812169-5511-448b-8aca-daa654f7d1b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMyMTgsIm5iZiI6MTcxMTYzMjkxOCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkxMzUyLThmODEyMTY5LTU1MTEtNDQ4Yi04YWNhLWRhYTY1NGY3ZDFiOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzM1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGM2OGMwNTcxNTkyZTA1Y2ZkOWVmZWJjMmY0NGZiMmFiNzU1NzU5YWM4ZTg4YmViYmYwZjFlOGVmM2YwMTJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YGQKQ4sKix9r8eMIX5hYqhntG4RMBddhkVuApnhx1hI">
-<center>전국 과일 물가 지수 [1]</center>
 </p>
+
+<center>
+  전국 과일 물가 지수 [1]
+</center>
 
 
 24년 1월 과실류 기여도: 0.4%P  
@@ -100,8 +109,11 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316792233-6a9dc61b-4f1f-4737-a34f-4f66efb04062.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMyNjgsIm5iZiI6MTcxMTYzMjk2OCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkyMjMzLTZhOWRjNjFiLTRmMWYtNDczNy1hMzRmLTRmNjZlZmIwNDA2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzM2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTFjYjExYzU5ZmNhNDE2YTdkYWU5MGQ0YmQ2MGY1NWI5NGY4ZDJkYmY0ZDJmNWNlMzM1YWVkNjg2NmFiM2UzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.a3ZMMWDhe_XTX9JjuLm6_BwePZeCDZIRpOFvC_AkYPs">
-<center>채소 품목별 물가 상승 상위 5위 누적 횟수 [2]</center>
 </p>
+
+<center>
+  채소 품목별 물가 상승 상위 5위 누적 횟수 [2]
+</center>
 
 
 
@@ -110,9 +122,12 @@
 - 상위 품목: 귤, 사과, 수박, 감, 배 등 
     
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/113625699/316792229-f8c6eadf-a7c6-4446-9b5c-3669ef101bfc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMyNjgsIm5iZiI6MTcxMTYzMjk2OCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkyMjI5LWY4YzZlYWRmLWE3YzYtNDQ0Ni05YjVjLTM2NjllZjEwMWJmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzM2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGU5YjQxMWEyM2U1NzdhYjk4YTcxOTgxOTViYTBiNjAxODZmMzMwMjczOTA3M2EyNTYxZWIxMGQzNGQwODNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wWMwjaUksWzfh3vhOMAWvcGv72mOCwx0E97INmRQJCE">
-<center>과일 품목별 물가 상승 상위 5위 누적 횟수 [2]</center>  
+<img src="https://private-user-images.githubusercontent.com/113625699/316792229-f8c6eadf-a7c6-4446-9b5c-3669ef101bfc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMyNjgsIm5iZiI6MTcxMTYzMjk2OCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkyMjI5LWY4YzZlYWRmLWE3YzYtNDQ0Ni05YjVjLTM2NjllZjEwMWJmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzM2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGU5YjQxMWEyM2U1NzdhYjk4YTcxOTgxOTViYTBiNjAxODZmMzMwMjczOTA3M2EyNTYxZWIxMGQzNGQwODNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wWMwjaUksWzfh3vhOMAWvcGv72mOCwx0E97INmRQJCE">  
 </p>  
+
+<center>
+  과일 품목별 물가 상승 상위 5위 누적 횟수 [2]
+</center>
 
 #### 2-3-3. 분기별 농산물 물가 증감률
 - 내용입력
@@ -121,8 +136,11 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/163802905/316788759-f35dbf27-bb32-4d08-990c-5d45c3147d63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzU4NzgsIm5iZiI6MTcxMTYzNTU3OCwicGF0aCI6Ii8xNjM4MDI5MDUvMzE2Nzg4NzU5LWYzNWRiZjI3LWJiMzItNGQwOC05OTBjLTVkNDVjMzE0N2Q2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxNDE5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZDEwMTllZjc4ZjExNzRhOTk1NzA1OTBhNjUxOTdjNzYxOWZkMmYwM2U3YTNkY2E0YjdmZmUxZTJlZGNlN2I2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.i6Sg7afc637wo5WEgyhM2N8QATs7_bTyeGZUmxTN5Z8">
-<center>2023년 분기별 농산물 물가 [2]</center>  
-</p>  
+</p>
+
+<center>
+  2023년 분기별 농산물 물가 [2]
+</center>  
 
 #### 2-3-4. 기간별 국산 과일 가격 인상
 - 내용입력
@@ -130,9 +148,12 @@
 - 내용입력
     
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/163802905/316788906-7534f4fe-ffbc-4c4e-8848-833d5f15411e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzU4NzgsIm5iZiI6MTcxMTYzNTU3OCwicGF0aCI6Ii8xNjM4MDI5MDUvMzE2Nzg4OTA2LTc1MzRmNGZlLWZmYmMtNGM0ZS04ODQ4LTgzM2Q1ZjE1NDExZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxNDE5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNGViY2QxMzQxYTcwMGE1M2RkNWQ2OGIxMmRjYWU4YzExMDVkYjIzZjQyZTUzZmYxNzU2M2YzNGQzNzc2Y2FhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.b8U9GWnmH6oist_2pyBxuvolBRMHbcgVIwviCLDKqbg">
-<center>표 제목 선정  [2]</center>  
+<img src="https://private-user-images.githubusercontent.com/163802905/316788906-7534f4fe-ffbc-4c4e-8848-833d5f15411e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzU4NzgsIm5iZiI6MTcxMTYzNTU3OCwicGF0aCI6Ii8xNjM4MDI5MDUvMzE2Nzg4OTA2LTc1MzRmNGZlLWZmYmMtNGM0ZS04ODQ4LTgzM2Q1ZjE1NDExZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxNDE5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNGViY2QxMzQxYTcwMGE1M2RkNWQ2OGIxMmRjYWU4YzExMDVkYjIzZjQyZTUzZmYxNzU2M2YzNGQzNzc2Y2FhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.b8U9GWnmH6oist_2pyBxuvolBRMHbcgVIwviCLDKqbg"> 
 </p>  
+
+<center>
+  표 제목 선정  [2]
+</center> 
 
 과실류 품목 분석 결과 사과가 물가 상승 최상위 품목 중 하나임을 확인.  
 → 단, 해당 품목의 가격 상승이 **소비자에게 영향이 없다면** 문제 정의 무의미.  
@@ -147,8 +168,11 @@
 - 내용 입력
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316793519-ce8154c9-5e1d-4b62-b6b3-1e02133584f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzQyOTksIm5iZiI6MTcxMTYzMzk5OSwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkzNTE5LWNlODE1NGM5LTVlMWQtNGI2Mi1iNmIzLTFlMDIxMzM1ODRmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMzUzMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYzRjZDIyMTM5NTgzOThlZTEwMjAxMzhiMmU5MzAyY2JmYzA4MTY0YmQ1ODU3MDk3YzQ1NDk1YTg4Mzk5MDI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VVFstHno4vzri7a6hPdJzdU7v-W92b3ZE4AV0cYor1I">
-<center>생과일 및 냉동과일 수입 물량 [?]</center>  
 </p> 
+
+<center>
+  생과일 및 냉동과일 수입 물량 [출처표기]
+</center>  
 
 #### 2-4-2. 생과일 및 건조과일 수입 물량 추이
 - 내용 입력
@@ -174,34 +198,48 @@
 - 내용 입력
 - 내용 입력
 <p align="center">
-<img src="이미지주소">
-<center>표 제목 선정  [출처 번호]</center>  
-</p>  
+  <img src="이미지주소">
+</p>
+
+<center>
+  표 제목 선정  [출처 번호]
+</center>  
 
 #### 3-2.이상기후
 #### 3-2-1. 제목
 - 내용 입력
 - 내용 입력
 <p align="center">
-<img src="이미지주소">
-<center>표 제목 선정  [출처 번호]</center>  
-</p>  
+  <img src="이미지주소">
+</p>
+
+<center>
+  표 제목 선정  [출처 번호]
+</center>  
+
 
 #### 3-2-2. 제목
 - 내용 입력
 - 내용 입력
 <p align="center">
-<img src="이미지주소">
-<center>표 제목 선정  [출처 번호]</center>  
-</p>  
+  <img src="이미지주소">
+</p>
+
+<center>
+  표 제목 선정  [출처 번호]
+</center>  
+
 
 #### 3-2-3. 제목
 - 내용 입력
 - 내용 입력
 <p align="center">
-<img src="이미지주소">
-<center>표 제목 선정  [출처 번호]</center>  
-</p>  
+  <img src="이미지주소">
+</p>
+
+<center>
+  표 제목 선정  [출처 번호]
+</center>  
 
 분석 결과 이야기.  
 → 논리 전개.  
@@ -209,8 +247,8 @@
 
 ### 💡4. 해결책 제시💡
 이전과 이어지게끔 이야기.  
-→ 논리 전개.  
-→ 해야할 것 - 시각화 할 내용과 연결.
+논리 전개.  
+해야할 것 - 시각화 할 내용과 연결.
 #### 4-1. 스마트팜
 - 내용 입력
 - 내용 입력
@@ -222,8 +260,11 @@
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/70615068/316704670-209df21e-4ae3-4b8f-a9ae-06348246e4ca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMzMzYsIm5iZiI6MTcxMTYzMzAzNiwicGF0aCI6Ii83MDYxNTA2OC8zMTY3MDQ2NzAtMjA5ZGYyMWUtNGFlMy00YjhmLWE5YWUtMDYzNDgyNDZlNGNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDEzMzcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4NjBjY2Y0OWFhYWMwN2E3OWJiMzEwMDM3ZGE2ZGQ5YWE0MWM4NDdlZDM4MWRmMDQzYjYxZjk0MDI4YmE4YzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CBFRsg8cjLQcVrmsJF9d561tL6lkX7XBD3B1GHdHruQ" width="49%">
   <img src="https://private-user-images.githubusercontent.com/70615068/316704721-dfd95f98-a5e3-4125-9dbc-f49154889da7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MzMzMzYsIm5iZiI6MTcxMTYzMzAzNiwicGF0aCI6Ii83MDYxNTA2OC8zMTY3MDQ3MjEtZGZkOTVmOTgtYTVlMy00MTI1LTlkYmMtZjQ5MTU0ODg5ZGE3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI4VDEzMzcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmY2NkZTBkZmIwMzJlMWZlMTlkMzljZmJmYzZmNWRhOTgzZDgyYTgxYzdmMDhjMTBlOTE0ZTEyYjY1YjdhNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9zO9PDX2km2gFWp--viPwbsAPHcklit8LCVMQ8Hl3rI" width="49%">
-  <center>스마트팜 도입시 생산량 및 순수입 변화 [12]</center>
 </p>
+
+<center>
+  스마트팜 도입시 생산량 및 순수입 변화 [12]
+</center>
 
 스마트팜 내용입력  
 → 스마트팜 내용입력
