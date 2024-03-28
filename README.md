@@ -67,7 +67,7 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316791362-453626f2-f349-4156-b985-d491da65aff7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MjcwNDAsIm5iZiI6MTcxMTYyNjc0MCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkxMzYyLTQ1MzYyNmYyLWYzNDktNDE1Ni1iOTg1LWQ0OTFkYTY1YWZmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMTUyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOGFhMjFhNGVmOTI5YTVjMGIxMWY5OTBlOGNkZjk1MTRkNDE0MDI1Mzk5YTY5MGRkYTk5N2Y2YWE4YmE3NjRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lrud5Tlp0cqJPHdNgjQFzlmARMsii-jUQ30rclEXZqk">
-  <figcaption align="center">전국 소비자 물가 총 지수 [1]</figcaption>
+  <figcaption align="center"><a align="center">전국 소비자 물가 총 지수 [1]</a></figcaption>
 </p>
 
 #### 2-2-2. 10년간 전국 소비자 물가 지수
@@ -78,7 +78,7 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316791352-8f812169-5511-448b-8aca-daa654f7d1b8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2Mjc3MzgsIm5iZiI6MTcxMTYyNzQzOCwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkxMzUyLThmODEyMTY5LTU1MTEtNDQ4Yi04YWNhLWRhYTY1NGY3ZDFiOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMjAzNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OGUyMjFkODc0NTEwYjRkNGM5OTJjM2VkYTE4YmU4ODdhNzIyNDZjZDQ5ZDhjYjhjOGQxNTdjZGM0MDUzZWVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gug0cLF-JRD2O_SghxwGO5g28mBk6XGtjn5Je1WGSJw">
-  <figcaption align="center">전국 과일 물가 지수 [1]</figcaption>
+  <figcaption align="center"><a align="center">전국 과일 물가 지수 [1]</a></figcaption>
 </p>
 
 24년 1월 과실류 기여도: 0.4%P  
@@ -98,7 +98,7 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316792233-6a9dc61b-4f1f-4737-a34f-4f66efb04062.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2MjkwNTIsIm5iZiI6MTcxMTYyODc1MiwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkyMjMzLTZhOWRjNjFiLTRmMWYtNDczNy1hMzRmLTRmNjZlZmIwNDA2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMjI1NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YTBmMjQ0ZTIyZmJlMzQ3ZWJhZjc0YzBhZTdlMmQ4MWU1MjY0ZTAwNjExODM3NGVmM2RiYzkyOWJkMzI3YjM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mQnbxL6VeuYSRdxgZJV7vBxJyH0GVlKcp_vUUV925R8">
-  <figcaption align="center">채소 품목별 물가 상승 상위 5위 누적 횟수 [2]</figcaption>
+  <figcaption align="center"><a align="center">채소 품목별 물가 상승 상위 5위 누적 횟수 [2]</a></figcaption>
 </p>
 
 #### 2-3-2. 과일 품목별 물가 증가율 상위 5위 누적 빈도수
@@ -107,18 +107,25 @@
     
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/113625699/316792229-f8c6eadf-a7c6-4446-9b5c-3669ef101bfc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2Mjk0NjYsIm5iZiI6MTcxMTYyOTE2NiwicGF0aCI6Ii8xMTM2MjU2OTkvMzE2NzkyMjI5LWY4YzZlYWRmLWE3YzYtNDQ0Ni05YjVjLTM2NjllZjEwMWJmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQxMjMyNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZGRjOGU4NWI4ZGFjZTk5ZjUxN2JkYTg0ZGJkN2QyMTExZDE0Njk3NDYyZGRhNDkyYTk4MjBiOTUxZDI4ZTA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.MvTNBlI-mJHDouikE1koMRVXxjKjjy_QCuEl8WZN6Lc">
-  <figcaption align="center">과일 품목별 물가 상승 상위 5위 누적 횟수 [2]</figcaption>
+  <figcaption align="center"><a align="center">과일 품목별 물가 상승 상위 5위 누적 횟수 [2]</a></figcaption>
 </p>
 
-과실류 품목 분석 결과 사과가 물가 상승 최상위 품목임을 확인.  
-→ 단, '과실류'가 물가 상승에 0.4% 기여하였으므로, **세부 품목 분석** 필요 
+과실류 품목 분석 결과 사과가 물가 상승 최상위 품목 중 하나임을 확인.  
+→ 단, 해당 품목의 가격 상승이 **소비자에게 영향이 없다면** 문제 정의 무의미.  
+→ **물가 상승에 따른 과실 소비 시장 분석** 필요 
 
-#### 2-4. 소비자 물가 및 과실류 기여도 확인
+#### 2-4. 물가 증가에 따른 현상 파악
+물가 상승에 대한 
 
-#### 2-5. 소비자 물가 및 과실류 기여도 확인
+### 🍐3. 원인 도출🍐
 
-#### 2-6. 소비자 물가 및 과실류 기여도 확인
-#### 2-2. 우리나라의 스마트팜은 어떻게 돌아가고 있나 [12]
+#### 3-1.고령화
+
+#### 3-2.이상기후
+
+### 💡4. 해결책 제시💡
+#### 4-1. 
+#### 4-2. 스마트팜 제시 근거
 스마트팜 농작물 생산량 및 변화율
 
 <p align="center">
