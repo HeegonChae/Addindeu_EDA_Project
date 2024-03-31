@@ -15,6 +15,16 @@
 ### 👥 팀원 소개 👥
 <img src="https://raw.githubusercontent.com/JangHyeongJun-0523/EDA_Project/main/TeamRole.webp"> 
 
+### 👥 팀원 소개 👥
+|<img src="https://avatars.githubusercontent.com/u/108911726?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163802905?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163129674?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70615068?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113625699?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|**현혜지** Hyeji<br/>팀장<br/>[@hyejji](https://github.com/hyejji)|**강지연** jiyeon<br/>[@jiyeon0715](https://github.com/jiyeon0715)|**은영수** YeongsuSon<br/>발표자<br/>[@ysu0415](https://github.com/ysu0415)|**장형준** Jang Hyung Jun<br/>[@JangHyeongJun-0523](https://github.com/JangHyeongJun-0523)|HeegonChae<br/>[@HeegonChae](https://github.com/HeegonChae)|
+EDA: 재배지, 기후 추이<br/>Prophet: 기후 시계열 예측 <br/>Git: 커밋 규칙, 분기 관리, 문서작성<br/>Figjam: 프로젝트 현황 공유|EDA: 농산물 물가<br/>Folium: 물가 위치|EDA: 인구 및 고령화|EDA: 스마트팜 정량평가<br/>AWS-RDS: DB 인스턴스<br/>MySQL: 사용자 구분<br/>Git: 문서작성|EDA: 물가지수, <br/> 농산물 수출입, <br/>스마트팜 트랜드|
+
+<hr>
+EDA: Beautifulsope, Selenium, Pandas, Numpy
+
+공통: EDA: 데이터 분석 및 시각화, Git: 코드 커밋, 발표자료 작성, 프로젝트 요약, 출처 기록 
 <hr>
 
 ### 📚기술 스택📚
@@ -444,7 +454,7 @@
 → 스마트팜 내용입력
 
 ### 출처
-- 1: [품목별 소비자물가지수-통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0017)
+- 1: [품목별 소비자물가지수-통계청, 품목별 및 시점 설정: 총지수, (농산물)채소, (농산물)과실 (2014~2023)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J22112&conn_path=I2)
 
 - 2: [소매가격-농산물유통정보](https://www.kamis.or.kr/customer/main/main.do)
 
