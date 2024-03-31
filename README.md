@@ -393,18 +393,6 @@
   그래프 제목  [출처 번호]
 </div>
 
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-![1905_2040_시계열_예측_1](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/ee8f64cb-4468-4576-8bbb-4ac93f9eb2ed)
-
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
-</div>
 
 분석 결과 이야기.  
 → 논리 전개.  
