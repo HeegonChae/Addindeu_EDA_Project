@@ -18,7 +18,7 @@
 ### 👥 팀원 소개 👥
 |<img src="https://avatars.githubusercontent.com/u/108911726?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163802905?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163129674?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70615068?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113625699?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|**현혜지**<br/>팀장<br/>[@hyejji](https://github.com/hyejji)|**강지연**<br/>[@jiyeon0715](https://github.com/jiyeon0715)|**은영수**<br/>발표자<br/>[@ysu0415](https://github.com/ysu0415)|**장형준**<br/>[@JangHyeongJun-0523](https://github.com/JangHyeongJun-0523)|**채희곤**<br/>[@HeegonChae](https://github.com/HeegonChae)|
+|**현혜지**<br/>팀장<br/>[@hyejji](https://github.com/hyejji)|**강지연**<br/>[@jiyeon0715](https://github.com/jiyeon0715)|**손영수**<br/>발표자<br/>[@ysu0415](https://github.com/ysu0415)|**장형준**<br/>[@JangHyeongJun-0523](https://github.com/JangHyeongJun-0523)|**채희곤**<br/>[@HeegonChae](https://github.com/HeegonChae)|
 EDA: 재배지, 기후 추이<br/>Prophet: 기후 시계열 예측 <br/>Git: 커밋 규칙, 분기 관리, 문서작성<br/>Figjam: 프로젝트 현황 공유|EDA: 농산물 물가<br/>Folium: 물가 위치|EDA: 인구 및 고령화|EDA: 스마트팜 정량평가<br/>AWS-RDS: DB 인스턴스<br/>MySQL: 사용자 구분<br/>Git: 문서작성|EDA: 물가지수, <br/> 농산물 수출입, <br/>스마트팜 트랜드|
 
 <hr>
@@ -477,7 +477,7 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 
 - 11: [통계청. 『[농가인구 고령화비율]』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 12 링크 수정 필요: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/index/index.do)
+- 12: [통계청. 『1차 산업숙련 종사자수』]([https://kosis.kr/index/index.do](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
 - 13: [전국(도별) 논밭별 경지면적.통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
