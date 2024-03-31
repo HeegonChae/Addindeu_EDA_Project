@@ -477,7 +477,7 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 
 - 11: [통계청. 『[농가인구 고령화비율]』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 12: [통계청. 『1차 산업숙련 종사자수』]([https://kosis.kr/index/index.do](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 12: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
 - 13: [전국(도별) 논밭별 경지면적.통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
