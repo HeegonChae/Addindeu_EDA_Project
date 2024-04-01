@@ -135,7 +135,7 @@
 <p align="center">
 
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/f35dbf27-bb32-4d08-990c-5d45c3147d63" alt="Image 1" style="width:45%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e" alt="Image 2" style="width:52.5%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e" alt="Image 2" style="width:52%;">
 
 </p>
     
@@ -230,9 +230,9 @@
 
 <p align="center">
   
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
 
 </p>
 
