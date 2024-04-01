@@ -15,18 +15,6 @@
 ### 👥 팀원 소개 👥
 <img src="https://raw.githubusercontent.com/JangHyeongJun-0523/EDA_Project/main/TeamRole.webp"> 
 
-### 👥 팀원 소개 👥
-|<img src="https://avatars.githubusercontent.com/u/108911726?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163802905?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163129674?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/70615068?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113625699?v=4" width="150" height="150"/>|
-|:-:|:-:|:-:|:-:|:-:|
-|**현혜지**<br/>팀장<br/>[@hyejji](https://github.com/hyejji)|**강지연**<br/>[@jiyeon0715](https://github.com/jiyeon0715)|**손영수**<br/>발표자<br/>[@ysu0415](https://github.com/ysu0415)|**장형준**<br/>[@JangHyeongJun-0523](https://github.com/JangHyeongJun-0523)|**채희곤**<br/>[@HeegonChae](https://github.com/HeegonChae)|
-EDA: 재배지, 기후 추이<br/>Prophet: 기후 시계열 예측 <br/>Git: 커밋 규칙, 분기 관리, 문서작성<br/>Figjam: 프로젝트 현황 공유|EDA: 농산물 물가<br/>Folium: 물가 위치|EDA: 인구 및 고령화|EDA: 스마트팜 정량평가<br/>AWS-RDS: DB 인스턴스<br/>MySQL: 사용자 구분<br/>Git: 문서작성|EDA: 물가지수, <br/> 농산물 수출입, <br/>스마트팜 트랜드|
-
-<hr>
-EDA: Beautifulsope, Selenium, Pandas, Numpy
-
-공통: EDA: 데이터 분석 및 시각화, Git: 코드 커밋, 발표자료 작성, 프로젝트 요약, 출처 기록 
-<hr>
-
 ### 📚기술 스택📚
 <div align=center> 
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -58,9 +46,10 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 
 ###  🍎문제 인식🍎
 #### 사과 값 폭등
-![image](https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/bd16d942-f005-4c98-a0f8-389af876bcbe)
 
 <div align=center> 
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/bd16d942-f005-4c98-a0f8-389af876bcbe" alt="appleNews" style="width:75%;">
+
   2024년 1분기 뉴스 발췌
 </div> 
 
@@ -74,20 +63,6 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 사과값 폭등을 문제로 인식하고, 이를 분석하는 것이 의미있을지 판단한다.  
 
 #### 10년간 전국 소비자 물가 지수
-- 2014년부터 2023년까지 전국 소비자 물가 지수 변화 시각화
-- 2020년 이후부터 우상향 그래프 지속
-- 기준대비 작년(2023년) 증가폭 최대 (**11.59%**)   
-- 기준: 2020년 (=100)
-    
-<p align="center">
-
-![연도별 전국 소비자 물가 지수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/453626f2-f349-4156-b985-d491da65aff7)
-
-</p>
-
-<div align=center> 
-  전국 과일 물가 지수 [1]
-</div> 
 
 #### 10년간 전국 소비자 물가 지수
 - 2014년부터 2023년까지 전국 과일 물가 지수 변화 시각화
@@ -95,15 +70,6 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 - 기준대비 작년(2023년) 증가폭 최대 (**29.54%**)  
 - 기준: 2020년 (=100)
     
-<p align="center">
-
-![연도별 전국 과일 물가 지수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/8f812169-5511-448b-8aca-daa654f7d1b8)
-
-</p>
-
-<div align=center> 
-  전국 과일 물가 지수 [1]
-</div> 
 
 24년 1월 과실류 기여도: 0.4%P  
 → 전체 소비자물가지수 상승률 2.8%의 7분의 1  
@@ -112,6 +78,23 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 → 사과 값 폭등 현상은 **문제로 정의 및 분석하기에 적합**  
 → 단, '과실류'가 물가 상승에 0.4% 기여하였으므로, **세부 품목 분석** 필요 
 
+<p align="center">
+
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/453626f2-f349-4156-b985-d491da65aff7" alt="Image 1" style="width:49%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/8f812169-5511-448b-8aca-daa654f7d1b8" alt="Image 2" style="width:49%;">
+
+</p>
+
+- 2014년부터 2023년까지 전국 소비자 물가 지수 변화 시각화
+- 2020년 이후부터 우상향 그래프 지속
+- 기준대비 작년(2023년) 증가폭 최대 (**11.59%**)   
+- 기준: 2020년 (=100)
+    
+
+<div align=center> 
+  전국 소비자 물가 지수 [1] 전국 과일 물가 지수 [1]
+</div> 
+
 #### 물가 증가 채소 및 과일 파악
 문제 상황에 대한 세부 분석을 통해 문제 범위를 좁힌다.  
 따라서 물가 상승에 기여한 과실류, 그리고 채소류의 **품목별 물가 파악**이 필요하다. 
@@ -119,31 +102,20 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 #### 채소 품목별 물가 증가율 상위 5위 누적 빈도수
 - 2015년부터 2023년까지 물가 상승 상위 5위 품목을 연단위로 누적 시각화
 - 상위 품목: 무, 감자, 당근, 배추, 양파 등 
-    
-<p align="center">
-
-![높은 물가 증가율 상위 5개 품목(채소)](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/6a9dc61b-4f1f-4737-a34f-4f66efb04062)
-
-</p>
-
-<div align=center> 
-  채소 품목별 물가 상승 상위 5위 누적 횟수 [2]
-</div> 
-
-
 
 #### 과일 품목별 물가 증가율 상위 5위 누적 빈도수
 - 2015년부터 2023년까지 물가 상승 상위 5위 품목을 연단위로 누적 시각화
 - 상위 품목: 귤, 사과, 수박, 감, 배 등 
-    
+
 <p align="center">
 
-![높은 물가 증가율 상위 5개 품목(과일)](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/f8c6eadf-a7c6-4446-9b5c-3669ef101bfc)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/6a9dc61b-4f1f-4737-a34f-4f66efb04062" alt="Image 1" style="width:49%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/f8c6eadf-a7c6-4446-9b5c-3669ef101bfc" alt="Image 2" style="width:49%;">
 
-</p>  
+</p>
 
 <div align=center> 
-  과일 품목별 물가 상승 상위 5위 누적 횟수 [2]
+  채소 품목별 물가 상승 상위 5위 누적 횟수 [2] 과일 품목별 물가 상승 상위 5위 누적 횟수 [2]
 </div> 
 
 #### 분기별 농산물 물가 증감률
@@ -151,31 +123,26 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 - 내용입력
 - 내용입력
     
-<p align="center">
 
-![2023년 1분기 품목별 증감률](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/f35dbf27-bb32-4d08-990c-5d45c3147d63)
 
-</p>
 
-<div align=center> 
-  2023년 분기별 농산물 물가 [2]
-</div>  
 
 #### 기간별 국산 과일 가격 인상
 - 내용입력
 - 내용입력
 - 내용입력
-    
+
 <p align="center">
 
-![1년 전(2023) 1개월 전(2024.02) 과일 가격 비교](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/f35dbf27-bb32-4d08-990c-5d45c3147d63" alt="Image 1" style="width:45%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e" alt="Image 2" style="width:52.5%;">
 
-</p>  
-
-
+</p>
+    
 <div align=center> 
-  표 제목 선정  [2]
+  2023년 분기별 농산물 물가 [2] 표 제목 선정  [2]
 </div>  
+
 
 과실류 품목 분석 결과 사과가 물가 상승 최상위 품목 중 하나임을 확인.  
 → 단, 해당 품목의 가격 상승이 **소비자에게 영향이 없다면** 문제 정의 무의미.  
@@ -189,29 +156,22 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 - 내용 입력
 - 내용 입력
 
-<p align="center">
-
-![생 vs 냉동 수입량 비교](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/ce8154c9-5e1d-4b62-b6b3-1e02133584f7)
-
-</p> 
-
-<div align=center> 
-  생과일 및 냉동과일 수입 물량 [3][4]
-</div>  
-
-
 #### 생과일 및 건조과일 수입 물량 추이 (사과)
 - 내용 입력
 - 내용 입력
+
 <p align="center">
 
-![생 vs 건조 수입량 비교](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/24e10851-f9b0-4699-a09e-065744758cb6)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/ce8154c9-5e1d-4b62-b6b3-1e02133584f7" alt="Image 1" style="width:55%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/24e10851-f9b0-4699-a09e-065744758cb6" alt="Image 2" style="width:35%;">
 
-</p> 
+</p>
+
 
 <div align=center> 
-  생과일 및 건조 과일 수입 물량 [5][6]
+  생과일 및 냉동과일 수입 물량 [3][4]  생과일 및 건조 과일 수입 물량 [5][6]
 </div>  
+
 
 
 과실류 품목 소비 시장 분석을 수입 물량 추이를 통해 간접 판단.  
@@ -229,90 +189,50 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 ##### 제목
 - 내용 입력
 - 내용 입력
+
+
 <p align="center">
 
- ![연령별 장래 인구수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/a1bf842e-57d9-4125-ba4a-9e53394e62c5)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/a1bf842e-57d9-4125-ba4a-9e53394e62c5" alt="Image 1" style="width:36%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/1da46e5f-fd99-4259-b613-fd30f3cbf330" alt="Image 2" style="width:55%;">
 
 </p>
 
 <div align=center> 
-  연령별 인구수 통계  [출처 번호]
-</div>  
-
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
- ![시도별 고령화비율](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/37409c97-bb29-4de3-8976-2fbad15b668c)
-
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
+  연령별 인구수 통계  [출처 번호]  그래프 제목  [출처 번호]
 </div>  
 
 
 #### 제목
 - 내용 입력
 - 내용 입력
-<p align="center">
-
-![농가인구수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/e863217f-7751-44c4-b6b2-0c52875bae34)
-
-</p>
 
 <div align=center> 
-  그래프 제목  [출처 번호]
-</div>
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/4ec810b3-bebc-4bcb-b36b-fa5f586df9fc" alt="appleNews" style="width:55%;">
 
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-![농가인구 고령화비율](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/1da46e5f-fd99-4259-b613-fd30f3cbf330)
-
-</p>
+  2024년 1분기 뉴스 발췌
+</div> 
 
 <div align=center> 
   그래프 제목  [출처 번호]
 </div>  
 
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
 
-![1차 산업 숙련종사자수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/4ec810b3-bebc-4bcb-b36b-fa5f586df9fc)
 
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
-</div>  
-
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-![농가인구수](https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/e863217f-7751-44c4-b6b2-0c52875bae34)
-
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
-</div>  
 
 
 #### 이상기후
 #### 제목
 - 내용 입력
 - 내용 입력
+
+
+
 <p align="center">
   
-  ![2014_2023_전국_시도별_논밭_경지면적_변화추이_꺾은선](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:33%;">
 
 </p>
 
@@ -355,12 +275,13 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
   그래프 제목  [출처 번호]
 </div>
 
-#### 제목
+#### 사과(좌), 양파(우) 재배면적
 - 내용 입력
 - 내용 입력
 <p align="center">
 
-  ![1990_2023_강원_경상_사과_재배면적](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/29644ffe-e0f1-412c-9d46-8c4d681749de)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/29644ffe-e0f1-412c-9d46-8c4d681749de" alt="Image 1" style="width:49%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/e6f52c1f-b11b-4f52-bdea-01a0b87704bb" alt="Image 1" style="width:47%;">
 
 </p>
 
@@ -373,38 +294,13 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 - 내용 입력
 <p align="center">
 
-  ![2010_2023_수도_강원_양파_변화추이](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/e6f52c1f-b11b-4f52-bdea-01a0b87704bb)
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/63582075-cbd1-475f-b08b-85710fbc4464" alt="Image 1" style="width:48%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/ee8f64cb-4468-4576-8bbb-4ac93f9eb2ed" alt="Image 1" style="width:51%;">
 
 </p>
 
 <div align=center> 
-  그래프 제목  [출처 번호]
-</div>
-
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-  ![1980_2020_연평균기온_꺾은선](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/63582075-cbd1-475f-b08b-85710fbc4464)
-
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
-</div>
-
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-![1905_2040_시계열_예측_1](https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/ee8f64cb-4468-4576-8bbb-4ac93f9eb2ed)
-
-</p>
-
-<div align=center> 
-  그래프 제목  [출처 번호]
+  그래프 제목  [출처 번호] []
 </div>
 
 
@@ -420,33 +316,24 @@ EDA: Beautifulsope, Selenium, Pandas, Numpy
 - 내용 입력
 - 내용 입력
 
-#### 제목
-- 내용 입력
-- 내용 입력
-<p align="center">
-
-   ![스마트팜 구글 트랜드 분석](https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/dbb74260-62a7-494a-be47-789b11896893)
-
-</p>
 
 <div align=center> 
-  스마트팜 트랜드 분석  [16]
+  
 </div>
 
 #### 스마트팜 제시 근거
-스마트팜 내용입력  
-→ 스마트팜 내용입력
+스마트팜 
 
 <p align="center">
-
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/209df21e-4ae3-4b8f-a9ae-06348246e4ca" alt="Image 1" style="width:49%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/dfd95f98-a5e3-4125-9dbc-f49154889da7" alt="Image 2" style="width:49%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/113625699/dbb74260-62a7-494a-be47-789b11896893" alt="Image 1" style="width:45%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/209df21e-4ae3-4b8f-a9ae-06348246e4ca" alt="Image 1" style="width:25%;">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/70615068/dfd95f98-a5e3-4125-9dbc-f49154889da7" alt="Image 2" style="width:25%;">
 
 </p>
 
 
 <div align=center> 
-  스마트팜 도입시 생산량 및 순수입 변화 [17]
+  스마트팜 트랜드 분석  [16]  스마트팜 도입시 생산량 및 순수입 변화 [17]
 </div>
 
 
