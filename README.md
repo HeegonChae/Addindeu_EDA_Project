@@ -57,15 +57,11 @@
 
 ### 🧅문제 분석🧅
 #### 문제 정의
-~~단순히 물가가 큰 폭으로 상승한 경우, **사과 값 폭등**을 문제로 설정하는 것은 무의미하다.~~<br/>
 이번 프로젝트에서는 물가 상승 폭 급상승이 아닌 사과, 배 등 <br/>
 **농산물 가격 상승 현상에 대한 분석**을 문제 대상으로 설정했다.<br/>
 
 
 #### 문제 정의 타당성 검증
-~~문제 정의 타당성 검증을 위해 물가 상승세에 맞추어 사과값이 폭등하였는지 확인해야한다.  
-따라서 **소비자 물가**와 **과실류 기여도**를 확인하여  
-사과값 폭등을 문제로 인식하고, 이를 분석하는 것이 의미있을지 판단한다.~~ <br/>
 우선적으로 물가 상승세에 맞춰 과일 값이 폭등하였는지를 분석하고자 한다. <br/>
 **소비자 물가**와 **과실류 기여도**를 확인하여 사과값 폭등을 문제로 인식하고, 유효한 의미가 있는지를 판단했다. 
 
@@ -83,16 +79,6 @@
 2019년 이후 전체적으로 물가 지수 추이가 매년 우상향을 보이고 있다. <br/>
 특히, 2020년 이후로는 소비자 물가 지수와 과일 물가 지수 증가율(%)이 매년 증가했고 <br/>
 작년(2023년) 기준 가장 큰 증가율(**약 12%**)을 기록했다.
-
-~~24년 1월 과실류 기여도: 0.4%P  
-→ 일반적으로 과실류 물가 기여도가 0.1~0.2%P 수준  
-→ 최소 **2배 이상 물가 상승에 기여**  
-→ 사과 값 폭등 현상은 **문제로 정의 및 분석하기에 적합**  
-→ 단, '과실류'가 물가 상승에 0.4% 기여하였으므로, **세부 품목 분석** 필요~~
-
-~~#### 물가 증가 채소 및 과일 파악
-문제 상황에 대한 세부 분석을 통해 문제 범위를 좁힌다.  
-따라서 물가 상승에 기여한 과실류, 그리고 채소류의 **품목별 물가 파악**이 필요하다.~~ 
 
 #### 채소 및 과일 품목별 물가 증가율 상위 5위 누적 빈도수 [2]
 - 최근 9년간(2015년~2023년) 채소 및 과일 물가 상승 누적 상위 5개 품목 시각화
@@ -127,14 +113,18 @@
 </p>
 
 - 해당연도: 2023년 vs 2024년 2월<br/>
-################ 표 #######################
 
-위 두 그래프를 통해 2023년 과실류 품목 중 **물가 및 가격 상승**면에서 **사과**가 상위품목에 속함을 확인했다. <br/>
-이와 더불어 쉽게 접할 수 있는 **배, 달걀** 등에 대한 가격도 인상됨을 확인했다. <br/>
-이에 착안하여 과실류 물가 및 가격 변화가 소비자에게 **대체상품 구매** 등의 영향을 끼쳤는지 분석하기 위해 <br/>
-**물가 상승에 따른 과실 소비 시장**을 분석할 필요성을 느꼈다. <br/>
-~~→ 단, 해당 품목의 가격 상승이 **소비자에게 영향이 없다면** 문제 정의 무의미.~~ <br/>
-~~**물가 상승에 따른 과실 소비 시장 분석** 필요~~<br/>
+ | |배|단감|사과|참다래(국내산 키위)|
+|:------:|:---:|:---:|:---:|:---:|
+|**2023년(원)**|26,943|11,902|22,956|9,049|
+|**2024년 2월(원)**|41,379|21,505|29,259|10,263|
+|**증감(원)**|+14,436|+9,603|+6,303|+1,214|
+
+
+위 두 그래프를 통해 2023년 과실류 품목 중 **물가 및 가격 상승면**에서 **사과**가 상위품목에 속함을 확인했다. <br/>
+이와 더불어 쉽게 접할 수 있는 **배, 단감** 등에 대한 가격도 인상됨을 확인했다. <br/>
+이에 착안하여 과실류 물가 및 가격 변화가 **대체상품 구매** 등 새로운 구매 형태로의 영향을 소비자에게 끼쳤는지 분석하기 위해 <br/>
+**물가 상승에 따른 과실 소비 시장**을 분석하였다. <br/>
 
 #### 과실류 가격 증가가 소비자 구매에 끼친 영향력 분석
 ##### 생과일 vs 냉동과일(딸기), 생과일 vs 건조과일(사과) 수입 물량 추이 [3], [4], [5], [6]
@@ -155,11 +145,6 @@
     - 2019년부터 생딸기 수입제한
     - 동일연도부터 냉동 딸기 지속적 수입 증가(2021년: 약 9000t, 2022년: 약 12200t, 2023년: 약 12700t)
     - 작년(2023년) 냉동 딸기 최대 수입량 갱신(**약 12700t**)
-      
-~~<br/>→ 과실류 물가 상승 시기와 대체품 수입 상승 시기가 **유사한 추이**를 보임.  
-→ **과실 물가 상승이 소비자에게 영향이 있다**고 판단.  
-→ 과실 물가 상승 문제는 **분석 대상으로 적절**하다고 판단.  
-→ 해당 문제에 관한 **원인 도출** 필요.~~
 
 ### 🍐원인 도출🍐
 - 생과일 수입 억제와 대조적인 냉동 및 건조 과일 수입 촉진으로 <br/>
@@ -170,57 +155,63 @@
   - 1.**고령화 및 농가 인구 감소**
   - 2.**이상기후로 인한 재배면적 감소**
 
-#### 고령화
-##### 제목
-- 내용 입력
-- 내용 입력
-
+#### 1. 고령화 및 농가 인구 감소
+##### 연령별 인구수 통계 그래프[8]
+- 해당연도: 1960 ~ 2024년
+- 영유아부터 노년까지 인구수 조사
 
 <p align="center">
-
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/a1bf842e-57d9-4125-ba4a-9e53394e62c5" alt="Image 1" style="width:36%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/1da46e5f-fd99-4259-b613-fd30f3cbf330" alt="Image 2" style="width:55%;">
-
 </p>
 
-<div align=center> 
-  연령별 인구수 통계  [출처 번호]  그래프 제목  [출처 번호]
-</div>  
+- 1960년 이후 인구수는 지속적인 증가 추세를 보였다.<br/>
+  - 1960년대(**약 2500만명**), 2020년대(**약 5000만명**)<br/>
+- 그러나 시간 흐름에 따라 특정 연령별 인구수는 감소 추세를 보였다.<br/>
+  - **영유아 ~ 청년층**은 1980년대 이후 지속적으로 감소했다.<br/>
+  - 이와 대조적으로 **중년 ~ 노년층**은 동일기간 동안 증가했다.<br/>
+  
+##### 농가 인구수 감소와 65세 이상 고령인구비율 그래프 유사성[9], [10]
+- 해당연도: 2013 ~ 2022년
+- 행정구역 단위: 전국
+  
+<p align="center">
+  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/1da46e5f-fd99-4259-b613-fd30f3cbf330" alt="Image 2" style="width:55%;">
+</p>
 
+- 전국 농가 인구수는 2010년대 이후 2022년까지 계속 감소 추세를 보였다.<br/>
+  - 2022년 역대 최저 농가인구수 기록(**약 200만명**)<br/>
+- 이와 대조적으로 동일기간 동안 인구비율에서 65세 이상이 차지하는 비중은 계속 증가 추세를 보였다.<br/>
+  - 2022년 역대 최고 65세 이상 인구 비율 기록(**약 50%**)<br/>
+- 특히 2020년 이후 **전국 농가 인구수가 가장 가파른 기울기로 감소**한 반면<br/>
+  **인구비율에서 65세 이상 비중은 가장 가파른 기울기로 증가**했다.<br/>
+- 이를 통해, 최근 전국 농가 인구수 변화와 전체 인구 비율에서의 65세 비중 변화간의 유사성이 있음을 관찰할 수 있다.
 
-#### 제목
-- 내용 입력
-- 내용 입력
+#### 1차 산업 숙련 종사자수 통계[11]
+- 해당연도: 2004 ~ 2017년
 
-<div align=center> 
+<p align=center> 
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163129674/4ec810b3-bebc-4bcb-b36b-fa5f586df9fc" alt="appleNews" style="width:55%;">
+</p> 
 
-  2024년 1분기 뉴스 발췌
-</div> 
+- 최근 10년간 1차 산업 숙련 종사자 수가 감소 추세를 보였다.<br/>
+  - **숙련 종사자**: 전문적 기술이 필요한 직무 종사자<br/>
+- 2004년 **약 1800명**인 농업 관련 1차 산업 종사자 수는 2017년 **약 1200명**으로 감소했는데<br/>
+마지막 집계시점이 2017년 인것을 고려하면 더 감소할 것으로 예상된다.<br/>
 
-<div align=center> 
-  그래프 제목  [출처 번호]
-</div>  
-
-#### 이상기후
+#### 2. 이상기후로 인한 재배면적 감소
 #### 제목
 - 내용 입력
 - 내용 입력
 
 <p align="center">
-  
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/890e1529-7cc8-4b50-a101-ad2468989df5" alt="Image 1" style="width:32%;">
-
 </p>
 
 <div align=center> 
   그래프 제목  [출처 번호]
 </div>  
 
-
-#### 제목
+#### 권역별 논밭 경지면적 변화
 - 내용 입력
 - 내용 입력
 <p align="center">
@@ -365,16 +356,14 @@
 
 - 10: [통계청. 『[농가인구수]행정구역별 농가인구』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 11: [통계청. 『[농가인구 고령화비율]』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 11: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 12: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 12: [전국(도별) 논밭별 경지면적.통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 13: [전국(도별) 논밭별 경지면적.통계청](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 13: [전국 기후변화 시나리오.기상청.](http://www.climate.go.kr/home/CCS/regionclimate/main_view.html)
 
-- 14: [전국 기후변화 시나리오.기상청.](http://www.climate.go.kr/home/CCS/regionclimate/main_view.html)
+- 14: [과거관측-일별자료-기상청 날씨누리](https://www.weather.go.kr/w/obs-climate/land/past-obs/obs-by-day.do?stn=108&yy=2005&mm=3&obs=1)
 
-- 15: [과거관측-일별자료-기상청 날씨누리](https://www.weather.go.kr/w/obs-climate/land/past-obs/obs-by-day.do?stn=108&yy=2005&mm=3&obs=1)
+-  15: [스마트팜 구글 트랜드 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
 
--  16: [스마트팜 구글 트랜드 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
-
-- 17: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. pp121-122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
+- 16: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. pp121-122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
