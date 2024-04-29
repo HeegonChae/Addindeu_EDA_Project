@@ -259,20 +259,6 @@
 
 - 1905년부터 118개의 연평균 기온 데이터를 토대로 시계열 예측한 결과, **지속적인 기온 상승**을 보였다.<br/>
 
-#### 기후변화 시나리오
-- 해당연도: 1980 ~ 2023년
-- 행정구역 단위: 전국
-<p align="center">
-
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/63582075-cbd1-475f-b08b-85710fbc4464" alt="Image 1" style="width:48%;">
-  <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/ee8f64cb-4468-4576-8bbb-4ac93f9eb2ed" alt="Image 1" style="width:51%;">
-
-</p>
-
-- 1980년 이후부터 연평균 기온은 **상승세**를 보였다.<br/>
-  - 2023년에 최대치 기록(13.9도)<br/>
-
-- 1905년부터 118개의 연평균 기온 데이터를 토대로 시계열 예측한 결과, **지속적인 기온 상승**을 보였다.<br/>
 
 #### 분석 결과
 → 고령화 및 농가 인구 감소는 노동력 감소를 나타내고,
