@@ -214,9 +214,9 @@
 - 해당연도: 1990 ~ 2023년
 - 행정구역 단위: 전국
 <p align="center">
-  **권역별 배 농지 규모 변화** 링크가 없습니다.
-  **권역별 사과 농지 규모 변화**의 유효한 링크가 없습니다.
-  **권역별 양파 농지 규모 변화**의 유효한 링크가 없습니다.
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/8c578c05-2b0e-44e7-bb6d-103aade17e1b" alt="pear" style="width:32%;">
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/7b17a64d-f15c-4360-90a5-b9623db7ecb1" alt="apple" style="width:32%;">
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/dd7712df-31eb-4077-8124-a3b2ee422ce6" alt="onion" style="width:32%;">
 </p>
 
 - **배**는 2000년 이후로 전국적 **하락세**를 보였다.<br/>
