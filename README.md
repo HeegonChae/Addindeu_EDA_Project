@@ -214,19 +214,19 @@
 - 해당연도: 1990 ~ 2023년
 - 행정구역 단위: 전국
 <p align="center">
-    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/8c578c05-2b0e-44e7-bb6d-103aade17e1b" alt="pear" style="width:32%;">
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/8c578c05-2b0e-44e7-bb6d-103aade17e1b" alt="pear" style="width:55%;">
 </p>
 - **배**는 2000년 이후로 전국적 **하락세**를 보였다.<br/>
 
 <p align="center">
-    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/7b17a64d-f15c-4360-90a5-b9623db7ecb1" alt="apple" style="width:32%;">
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/7b17a64d-f15c-4360-90a5-b9623db7ecb1" alt="apple" style="width:55%;">
 </p>
 
 - **사과**는 2020년 이후로 남부(**경상권**)은 **하락세**, 북부(**강원권**)은 **상승세**를 보였다.<br/>
     - 단위면적당 재배 농지의 **최대 하락세**는 **경상권**이다.<br/>
 
 <p align="center">
-    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/dd7712df-31eb-4077-8124-a3b2ee422ce6" alt="onion" style="width:32%;">
+    <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/dd7712df-31eb-4077-8124-a3b2ee422ce6" alt="onion" style="width:55%;">
 </p>
 
 - **양파**는 2020년 이후로 남부(**호남권&경상권**)은 **하락세**, 북부(**수도권&강원권**)은 **상승세**를 보였다.<br/>
