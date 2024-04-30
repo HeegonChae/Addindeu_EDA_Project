@@ -93,7 +93,7 @@
 - 채소별 상위 품목: **무, 감자, 당근, 배추, 양파** 등 
 - 과일별 상위 품목: **귤, 사과, 수박, 감, 배** 등
   
-#### 2023 분기별 농산물 물가 증감률 [1]
+#### 2023 분기별 농산물 물가 증감률 [3]
 - 기준: 2020년(**100**)
 - 예시: 2023년 1분기
 <p align="center">
@@ -106,7 +106,7 @@
   * 3분기 : **사과**(37%), 귤(30%)
   * 4분기 : **사과**(62%), 복숭아(44%)
   
-#### 국산 과일 가격 인상 시각화 [2]
+#### 국산 과일 가격 인상 시각화 [4]
 - 해당연도: 2023 ~ 2024년
 <p align="center">
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e" alt="Image 2" style="width:52%;">
@@ -327,9 +327,9 @@
 → 농림축산식품부에서 스마트팜을 **정량평가 대상**으로 지정함을 확인~~
 
 ### 출처
-- 1: [품목별 소비자물가지수-통계청, 품목별 및 시점 설정: 총지수, (농산물)채소, (농산물)과실 (2014~2023)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J22112&conn_path=I2)
+- 1: [통계청, 품목별 소비자물가지수(2023년 전년동분기)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J22112&conn_path=I2)
 
-- 2: [소매가격-농산물유통정보](https://www.kamis.or.kr/customer/main/main.do)
+- 2: [농산물유통정보, 3월 25일 기준 소매가격(페이지 업데이트로 인해 변동사항 있음)](https://www.kamis.or.kr/customer/main/main.do)
 
 - 3:[한국무역통계진흥원,생딸기, 검색순서:과실·견과류→0810→081010→[0810100000]](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
 
@@ -340,7 +340,7 @@
 - 6: [한국무역통계진흥원,  건조사과, 검색순서:과실·견과류→0813→081330→[0813300000]](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
 
 
-- 7: [통계청. 『채소생산량(과채류)』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 0: [통계청. 『채소생산량(과채류)』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
 - 8: [통계청. 『[장래인구]성 및 연령별 추계인구/전국) 1960-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BPA001&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
