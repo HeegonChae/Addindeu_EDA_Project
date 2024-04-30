@@ -216,6 +216,7 @@
 <p align="center">
     <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/108911726/8c578c05-2b0e-44e7-bb6d-103aade17e1b" alt="pear" style="width:55%;">
 </p>
+
 - **배**는 2000년 이후로 전국적 **하락세**를 보였다.<br/>
 
 <p align="center">
