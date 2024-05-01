@@ -80,7 +80,7 @@
 특히, 2020년 이후로는 소비자 물가 지수와 과일 물가 지수 증가율(%)이 매년 증가했고 <br/>
 작년(2023년) 기준 가장 큰 증가율(**약 12%**)을 기록했다.
 
-#### 채소 및 과일 품목별 물가 증가율 상위 5위 누적 빈도수 [2]
+#### 채소 및 과일 품목별 물가 증가율 상위 5위 누적 빈도수 [1]
 - 최근 9년간(2015년~2023년) 채소 및 과일 물가 상승 누적 상위 5개 품목 시각화
 
 <p align="center">
@@ -93,7 +93,7 @@
 - 채소별 상위 품목: **무, 감자, 당근, 배추, 양파** 등 
 - 과일별 상위 품목: **귤, 사과, 수박, 감, 배** 등
   
-#### 2023 분기별 농산물 물가 증감률 [3]
+#### 2023 분기별 농산물 물가 증감률 [1]
 - 기준: 2020년(**100**)
 - 예시: 2023년 1분기
 <p align="center">
@@ -106,7 +106,7 @@
   * 3분기 : **사과**(37%), 귤(30%)
   * 4분기 : **사과**(62%), 복숭아(44%)
   
-#### 국산 과일 가격 인상 시각화 [4]
+#### 국산 과일 가격 인상 시각화 [2]
 - 해당연도: 2023 ~ 2024년
 <p align="center">
   <img src="https://github.com/addinedu-ros-5th/eda-repo-2/assets/163802905/7534f4fe-ffbc-4c4e-8848-833d5f15411e" alt="Image 2" style="width:52%;">
@@ -156,7 +156,7 @@
   - 2.**이상기후로 인한 재배면적 감소**
 
 ### 1. 고령화 및 농가 인구 감소
-##### 연령별 인구수 통계 그래프[8]
+##### 연령별 인구수 통계 그래프[7]
 - 해당연도: 1960 ~ 2024년
 - 영유아부터 노년까지 인구수 조사
 
@@ -170,7 +170,7 @@
   - **영유아 ~ 청년층**은 1980년대 이후 지속적으로 감소했다.<br/>
   - 이와 대조적으로 **중년 ~ 노년층**은 동일기간 동안 증가했다.<br/>
   
-##### 농가 인구수 감소와 65세 이상 고령인구비율 그래프 유사성[9], [10]
+##### 농가 인구수 감소와 65세 이상 고령인구비율 그래프 유사성[8], [9]
 - 해당연도: 2013 ~ 2022년
 - 행정구역 단위: 전국
   
@@ -186,7 +186,7 @@
   **인구비율에서 65세 이상 비중은 가장 가파른 기울기로 증가**했다.<br/>
 - 이를 통해, 최근 전국 농가 인구수 변화와 전체 인구 비율에서의 65세 비중 변화간의 유사성이 있음을 관찰할 수 있다.
 
-#### 1차 산업 숙련 종사자수 통계[11]
+#### 1차 산업 숙련 종사자수 통계[10]
 - 해당연도: 2004 ~ 2017년
 
 <p align=center> 
@@ -199,7 +199,7 @@
 마지막 집계시점이 2017년 인것을 고려하면 더 감소할 것으로 예상된다.<br/>
 
 ### 2. 이상기후로 인한 재배면적 감소
-#### 권역별 논밭 경지면적 변화[12]
+#### 권역별 논밭 경지면적 변화[11]
 - 해당연도: 2014 ~ 2023년
 - 행정구역 단위: 전국
 
@@ -210,7 +210,7 @@
 - 최근 10년간 권역별 논밭 경지면적은 하락세를 보였다.<br/>
   - 2023년 기준 **경상권,호남권,충청권**에서 가장 큰 하락세를 보였다.<br/>
 
-#### 23년도 가격 증감률이 높은 품목 3종류의 재배면적 비교[],[],[]
+#### 23년도 가격 증감률이 높은 품목 3종류의 재배면적 비교[12],[13]
 - 해당연도: 1990 ~ 2023년
 - 행정구역 단위: 전국
 <p align="center">
@@ -233,7 +233,7 @@
 - **양파**는 2020년 이후로 남부(**호남권&경상권**)은 **하락세**, 북부(**수도권&강원권**)은 **상승세**를 보였다.<br/>
 
 
-#### 사과 & 양파 재배면적의 변화율 분석[],[]
+#### 사과 & 양파 재배면적의 변화율 분석[12],[13]
 - 해당연도: 사과(1990 ~ 2023년), 양파(2010 ~ 2023년) 
 - 행정구역 단위: 사과(강원권&경상권), 양파(수도권&강원권)
 
@@ -250,7 +250,7 @@
 - 재배지역 **북상**의 원인으로 **연평균 기온 상승**이 있음을 예상했다.<br/>
 
 
-#### 농산물 재배 지역의 북상 : 연평균 기온 상승 및 시계열 예측[],[]
+#### 농산물 재배 지역의 북상 : 연평균 기온 상승 및 시계열 예측[14], [15]
 - 해당연도: 1980 ~ 2023년
 - 행정구역 단위: 전국
 <p align="center">
@@ -278,7 +278,7 @@
 - 현재는 스마트팜 도입 초기 단계로 정부에서 2019년 이후부터 적극적으로 권장하며, 이를 통해 **노동시간 감소 및 농산물 생산량 증가** 등을 목표로 한다.
 
 
-#### 스마트팜 제시 근거 [16] [17]
+#### 스마트팜 제시 근거 [16], [17]
 ##### 1. 구글 트랜드 분석 통한 관심도 변화
 - 해당연도: 2021년 12월 1일~2024년 3월 21일
  
@@ -290,8 +290,6 @@
 '스마트팜' 단어 월별 검색 횟수 상위 5개를 살펴본 결과, **2022년 이후** 높은 관심을 보임을 알 수 있다. <br/>
 - 2022년 5월(**448회**), 2023년 4월(**404회**), 2022년 10월(**399회**), 2022년 7월(**365회**), 2023년 3월(**346회**) <br/>
 
-~~→ 농산물 생산성 증대의 해법으로 스마트팜을 솔루션으로 채택하는 수요가 증가함으로 해석  
-→ 농림축산식품부에서 스마트팜을 **정량평가 대상**으로 지정함을 확인~~
 ##### 2-1. 스마트팜 효용성 정량평가 결과(1)- 농작물 생산량
 - 집계연도: 2020~2021년
 - 생산량 단위면적당 생산량(kg/3.3m^2)
@@ -323,8 +321,7 @@
 - 위 문제들의 해결방안들 중 하나로 **스마트팜**을 잠재적인 솔루션으로 채택했고 그에 대한 수요가 증가하고 있음을 확인했다.
 - 특히, 농림축산식품부에서는 스마트팜을 **정량평가 대상**으로 지정하고 관련된 제도 및 프로그램을 통해 농산물 생산성 증대를 목표로 하고 있다.
 - 따라서, 스마트팜에 대한 제도적 확산과 구제적인 교육 프로그램 수립을 통한 과학 기반의 농업이 **노동 시간 감소와 생산량 증대**를 이끌 것으로 전망된다.  
-~~→ 농산물 생산성 증대의 해법으로 스마트팜을 솔루션으로 채택하는 수요가 증가함으로 해석  
-→ 농림축산식품부에서 스마트팜을 **정량평가 대상**으로 지정함을 확인~~
+
 
 ### 출처
 - 1: [통계청, 품목별 소비자물가지수(2023년 전년동분기)](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J22112&conn_path=I2)
@@ -339,23 +336,24 @@
 
 - 6: [한국무역통계진흥원,  건조사과, 검색순서:과실·견과류→0813→081330→[0813300000]](https://www.bandtrass.or.kr/customs/total.do?command=CUS001View&viewCode=CUS00201)
 
+- 7: [통계청. 『[장래인구]성 및 연령별 추계인구/전국) 1960-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BPA001&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 0: [통계청. 『채소생산량(과채류)』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0027&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 8: [통계청. 『고령인구비율(시도/시/군/구) 2000-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20631&conn_path=I2) 
 
-- 8: [통계청. 『[장래인구]성 및 연령별 추계인구/전국) 1960-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1BPA001&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 9: [통계청. 『[농가인구수]행정구역별 농가인구』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 9: [통계청. 『고령인구비율(시도/시/군/구) 2000-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20631&conn_path=I2) 
+- 10: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
 
-- 10: [통계청. 『[농가인구수]행정구역별 농가인구』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EA1011&vw_cd=MT_ZTITLE&[…]th=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 11: [통계청.『전국(도별) 논밭별 경지면적』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB001&conn_path=I2)
 
-- 11: [통계청. 『1차 산업숙련 종사자수』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7C08S&vw_cd=MT_ZTITLE&list_id=B17A&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=MT_ZTITLE&path=%252FstatisticsList%252FstatisticsListIndex.do)
+- 12: [통계청,『농작물생산조사 과실생산량(사과 및 배) 1990-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0292&conn_path=I2)
+  
+- 13: [통계청,『농작물생산조사 채소생산량(조미채소_양파) 1990-2023』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1ET0291&conn_path=I2)
 
-- 12: [통계청.『전국(도별) 논밭별 경지면적』](https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1EB001&conn_path=I2)
+- 14: [기상청.『전국 기후변화 시나리오』](http://www.climate.go.kr/home/CCS/regionclimate/main_view.html)
 
-- 13: [기상청.『전국 기후변화 시나리오』](http://www.climate.go.kr/home/CCS/regionclimate/main_view.html)
+- 15: [기상청 날씨누리.『과거관측-일별자료-』](https://www.weather.go.kr/w/obs-climate/land/past-obs/obs-by-day.do?stn=108&yy=2005&mm=3&obs=1)
 
-- 14: [기상청 날씨누리.『과거관측-일별자료-』](https://www.weather.go.kr/w/obs-climate/land/past-obs/obs-by-day.do?stn=108&yy=2005&mm=3&obs=1)
+- 16: [스마트팜 구글 트랜드 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
 
--  15: [스마트팜 구글 트랜드 분석](https://trends.google.com/trends/explore?date=2020-02-20%202024-03-20&geo=KR&q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C)
-
-- 16: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. pp121-122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
+- 17: [농림축산식품부.(2023). ***『스마트농업 실태조사』*** n.p.: 농림축산식품부. pp121-122](https://www.smartfarmkorea.net/file/download.do;jsessionid=AK3Mg84InUsxoe9loLVYtG4Dsi1LPJh9DsX7YRkkCdLy1wVazSOSFqg2ag3I8a2s.ICTfusionwas2_servlet_smffront?fileId=3365&type=BBS)
